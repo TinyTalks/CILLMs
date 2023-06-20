@@ -17,7 +17,7 @@
 | CLUENER2020 | 清华大学开源的文本分类数据集THUCNEWS,进行筛选过滤、实体标注生成的 | 清华大学 | https://github.com/CLUEbenchmark/CLUENER2020 |
 
 
-# Pretrained Internet Language Model
+# Chinese Internet Large Language Models
 
 ## BERT
 

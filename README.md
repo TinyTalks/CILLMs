@@ -2,32 +2,18 @@
 
 # Evaluated Datase
 
-Private: https://huggingface.co/datasets/TinyTalks/DDmkTCCorpus
-
 ## Sentiment Detection
-SMP2020-EWECT(SMP2020微博情绪分类评测)
 
-https://smp2020ewect.github.io/
-
-主办方：中国中文信息学会社会媒体处理专业委员会（CIPS-SMP）
-
-承办方：哈尔滨工业大学社会计算与信息检索研究中心（哈工大SCIR）
-
-赞助方：微热点大数据研究院
-
-
-SMP2019_ECISA(SMP2019中文隐式情感分析评测)
-
-http://www.cips-smp.org/smp_data/5
-
-中国中文信息学会社会媒体处理专委会主办
-
+| 数据集 | 解释 | 来源 | 链接 |
+| SMP2020-EWECT | SMP2020微博情绪分类评测 | 中国中文信息学会社会媒体处理专业委员会（CIPS-SMP） | https://smp2020ewect.github.io |
+| SMP2019_ECISA	| SMP2019中文隐式情感分析评测 | 中国中文信息学会社会媒体处理专委会 | http://www.cips-smp.org/smp_data/5 |
+| DDmkTCCorpus	| 弹幕情感标注语料 | TinkTalks | https://github.com/TinyTalks/DDmkTCCorpus |
 
 ### NER
 
-CLUENER2020
+| 数据集 | 解释 | 主办方 | 链接 |
+| CLUENER2020 | 清华大学开源的文本分类数据集THUCNEWS,进行筛选过滤、实体标注生成的 | 清华大学 | https://github.com/CLUEbenchmark/CLUENER2020 |
 
-https://github.com/CLUEbenchmark/CLUENER2020
 
 # Pretrained Internet Language Model
 

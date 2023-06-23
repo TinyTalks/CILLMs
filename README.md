@@ -30,9 +30,9 @@ chinese_danmaku_roberta
 |:-------------:|:-----:|
 | 0.7780 | https://huggingface.co/WUJUNCHAO/chinese_danmaku_roberta |
 
-| Tasks | Accuracy | Precision | Recall | F1 |
+| Dataset | Accuracy | Precision | Recall | F1 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| Sentiment Detection in DDmkTCCorpus | 0.89 | 0.86 | 0.88 | 0.87 |
+| DDmkTCECT | 0.89 | 0.86 | 0.88 | 0.87 |
   
 
 

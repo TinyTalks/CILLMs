@@ -8,13 +8,14 @@
 |:-------------:|:-----:|:-----:|:-----:|
 | SMP2020-EWECT | SMP2020微博情绪分类评测 | 中国中文信息学会社会媒体处理专业委员会（CIPS-SMP） | https://smp2020ewect.github.io |
 | SMP2019_ECISA	| SMP2019中文隐式情感分析评测 | 中国中文信息学会社会媒体处理专委会 | http://www.cips-smp.org/smp_data/5 |
-| DDmkTCCorpus	| 弹幕情感标注语料 | TinkTalks | https://github.com/TinyTalks/DDmkTCCorpus |
+| DDmkTCECT	| 弹幕情感标注语料 | TinkTalks | https://github.com/TinyTalks/DDmkTCCorpus |
 
 ### NER
 
 | 数据集 | 解释 | 来源 | 链接 |
 |:-------------:|:-----:|:-----:|:-----:|
 | CLUENER2020 | 清华大学开源的文本分类数据集THUCNEWS,进行筛选过滤、实体标注生成的 | 清华大学 | https://github.com/CLUEbenchmark/CLUENER2020 |
+| DDmkTCNER	| 弹幕命名实体识别标注语料 | TinkTalks | https://github.com/TinyTalks/DDmkTCCorpus |
 
 
 # Chinese Internet Large Language Models
